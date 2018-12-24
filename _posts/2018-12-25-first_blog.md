@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      "Blog  그리고 Logo 만들기"
 subtitle:   "Blog를 처음 만들다 "
@@ -6,9 +7,8 @@ author:     "Jun"
 header-img: "img/tags/Diary-bg.jpg"
 comments: true
 tags: [Diary]
-
-
 ---
+
 ## TEST 작성글입니다. 
 나의 Logo 는 언제나 새로운 가치룰 추가한다는 의미로 제작하였습니다. 
 1. 새로운 것을 배운다. 
